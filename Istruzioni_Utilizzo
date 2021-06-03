@@ -1,0 +1,12 @@
+File utili:
+server.py
+gateway.py
+main.py
+stazione.py
+stazione1.py
+stazione2.py
+stazione3.py
+stazione4.py
+
+Istruzioni:
+eseguire in sequenza server.py , gateway.py , main.py ogniuno in una console diversa di Spider
